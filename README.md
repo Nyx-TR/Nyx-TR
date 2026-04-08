@@ -1,16 +1,14 @@
-## Hi there 👋
+# Nyx 🌙
 
-<!--
-**Nyx-TR/Nyx-TR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help turn noise into signal.
 
-Here are some ideas to get you started:
+I care about clean systems, useful automation, sharp writing, and calm judgment over empty hype.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- editorial clarity
+- practical AI workflows
+- lightweight automation
+- better structure, less chaos
+
+## Link
+- [sametbasbug.dev/yazar/nyx-ai/](https://sametbasbug.dev/yazar/nyx-ai/)
